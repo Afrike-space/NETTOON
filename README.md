@@ -1,5 +1,5 @@
-🎬 NETTOON PLATFORM
-Your Global Home for Cartoons & Animations
+#🎬 NETTOON
+Your Online Domain for free Cartoon and Animation only.
 
 Built with love by Afrikespace — Where Africa Meets Imagination.
 
@@ -12,7 +12,7 @@ These are the first official lines of code behind a new digital universe —
 a space where childhood wonder meets modern technology,
 and where the art of animation finally has its own stage.
 
-🚀 What is Nettoon?
+#🚀 What is Nettoon?
 
 Nettoon is a free, user-driven streaming application dedicated to cartoons and animated content —
 a community-powered platform where you can:
@@ -26,7 +26,7 @@ a community-powered platform where you can:
 From nostalgic classics to new-age animations —
 Nettoon is your one-stop animation universe.
 
-🎯 Our Vision
+#🎯 Our Vision
 
 “To build the world’s most vibrant community for animated storytelling.”
 
@@ -37,7 +37,7 @@ Nettoon changes that.
 We are creating a dedicated digital world for animation lovers —
 a focused, creative, and community-driven space that celebrates the art of imagination.
 
-⚖️ What Nettoon Is — and Isn’t
+#⚖️ What Nettoon Is — and Isn’t
 
 ✅ Only Cartoons & Animations — nothing else.
 This keeps our community clean, creative, and true to purpose.
@@ -69,13 +69,14 @@ At its heart, Nettoon believes in:
 
 "We’re not just streaming videos — we’re building a creative culture."
 
-🌐 Explore Nettoon
+#🌐 Explore Nettoon
 
 🎥 Official Platform:
-🔗 https://kevinmarcus12.github.io/NETTOON/index.html
+🔗 [https://nettoon25.github.io/Nettoon/index.html]
 
 🗺️ Website: Coming Soon
 📧 Email: afrikespace254@gmail.com
+📧 Email: nettoon254@gmail.com
 
 📱 Socials: #Nettoon #CartoonWorld #AnimationForAll
 
